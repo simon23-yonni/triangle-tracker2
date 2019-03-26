@@ -1,0 +1,40 @@
+body {
+  text-align: center;
+  background-image: url(abstract-triangle.jpg);
+  font-family: monospace;
+  font-size: 20px;
+}
+h1{
+  color:red;
+}
+p{
+  color:red;
+}
+label{
+  color:red
+}
+button{
+  color:red
+}
+cont{
+  text-align: center;
+  width: 30%;
+  border-radius: 10px;
+  margin: auto;
+  padding: 2%;
+}
+
+.input {
+  display: block;
+  margin: 20px;
+  margin-top: 45px;
+}
+p1{
+  font-size:270%
+}
+p1{
+  color:red
+}
+p1{
+  text-shadow: 2px 2px 2px #CCCCCC;
+}
